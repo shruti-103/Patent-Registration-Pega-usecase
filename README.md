@@ -15,6 +15,8 @@
 
 
 **case lifecycle design**
+
+
 **Patent Registration** :  In this step the applicant need to enter Applicant Details , Inventor 
 Details like First name, Last name, mobile number, email Id, address, nationality and  
 Invention details like Type of application, Category of applicant, Patent status, Title of 
